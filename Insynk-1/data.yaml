@@ -1,0 +1,23 @@
+names:
+- long sleeve dress
+- long sleeve outwear
+- long sleeve top
+- short sleeve dress
+- short sleeve top
+- shorts
+- skirt
+- sling
+- sling dress
+- trousers
+- vest
+- vest dress
+nc: 12
+roboflow:
+  license: Private
+  project: insynk-itsmv
+  url: https://app.roboflow.com/insynk-vdlo1/insynk-itsmv/1
+  version: 1
+  workspace: insynk-vdlo1
+test: /content/drive/MyDrive/fashion_data_model/Insynk-1/test/images
+train: /content/drive/MyDrive/fashion_data_model/Insynk-1/train/images
+val: /content/drive/MyDrive/fashion_data_model/Insynk-1/valid/images

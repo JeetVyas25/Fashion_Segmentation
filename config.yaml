@@ -1,0 +1,6 @@
+epochs: 50
+patience: 0
+batch: 8
+imgsz: 640
+conf: 0.25
+iou : 0.6
